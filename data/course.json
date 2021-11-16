@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Inorganic Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "63a7af96-116a-65a1-78ff-6c5247de866d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Inorganic Chemistry II",
+  "course_description": "This course provides a systematic presentation of the chemical applications of group theory with emphasis on the formal development of the subject and its applications to the physical methods of inorganic chemical compounds. Against the backdrop of electronic structure, the electronic, vibrational, and magnetic properties of transition metal complexes are presented and their investigation by the appropriate spectroscopy described.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.04",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
